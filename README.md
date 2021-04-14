@@ -1,6 +1,6 @@
 # ManyPrimates 3B - inference by exclusion in a computer task
 
-> Project to assess primates' ability to make choices by excluding alternative options in a computer task
+Project to assess primates' ability to make choices by excluding alternative options in a computer task
 
 ## Structure (to be)
 
